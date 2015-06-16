@@ -9,4 +9,6 @@ categories: 日志
 ---
 
 这是**新的开始**，我用hexo创建了第一篇文章。
+<!--more-->
+今天NBA总决赛勇士VS骑士，库里投中7个三分，牛逼~
 ![超级赛亚人库里](/images/super_curry.gif)
